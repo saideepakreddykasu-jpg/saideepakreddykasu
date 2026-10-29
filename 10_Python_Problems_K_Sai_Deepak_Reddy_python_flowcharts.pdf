@@ -1,0 +1,6876 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 11
+/Kids [ 4 0 R 12 0 R 15 0 R 18 0 R 21 0 R 24 0 R 27 0 R 30 0 R 33 0 R 36 0 R 39 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 996
+>>
+stream
+Gat%!gJZc[&:Ml+lr,9CMNDB%P55B"TGJ4`nOmNk@N7[-I0mVQ1XhERb&JC?&h]A>@S==[p7,Ej(f:.7qDV(J:4,#^A\^;#2o#P.i1Ip.+5@B_&e8t.&1-]W&5?H,3)%X&.0rA0;HeXhM5tV<&o`OM<-d>D/V_rO!Dk\g-=.@W31;W>K*taob(7(>V&1i"[1990Z:3`2E#TGf"GW8DEfm2;R:k-V8RQ.&p]nk0D3d]R+t5^lpN0Q'pjZ/+p&R@mBq.>@M]a[2O5SoHIpd?]!4`@X*T9-^$>p<WNlMmWd^k5]2sE"_WRN?ZD?E\GXhfE%Q%Dp:0re%\Wc5eH"'8NuUJhZ8/rJ2D9,@l_*gI(gK0iFd;IP<pr,3Ab\=?lq9om?Tmut(=>FY%(j&eUHS#A\DXkChlBFH]sfH6)C'7[ILG,S]J!6=BU`\l<&>QjA36*7@9"K',F^_S-R8HC8bQ=-W.C2uoY_7^<3E*GF!c(p"qO=XnjPd.^)WG'!=]VpVa_#%hRM2AI]r1mp5lb>?N>6ErcRIgW*X'R`cQ5nZ1E_XqUUF4ND\h6>n.HC\N%L09M\X'#Q:M]sB4^TcfMU^kCp$"<T>!`^F)dt]VX1:epQir91F_ICBPLc3'=:a=;6.$qPC<SI."&h"JYP.!aN;$71ab)ET^_*0rY`,m[FW,0"l-oD_)^>E2.J<FJ50`((-<5)'o%0(SJ'QiEP\T@IM#@FjG69%YI[&KZ%ZUa)a/N]A1Qh1:l,j,KQP#oSB&Dr/:2Ae5H@M?#m5c$/_n9qGi!<HFHTal;$fpq<SBXNMK^<mZdK!V@430bJPpLDQm2NdV;6@[("r8#e-5IthlRA^#M)ECIo,7I[!V<dl9EeCLJLHPZU<J6FH8)SIi[A'J6P*=r+F&L(E=a&(?%[?"\]@LMaPo3D#O*6!ap*.0.Cc?<6]!)GbXfD;&>3-o0Y3+b*3NAIb,QGU'EP8=b];-,6&+arVGOrT#_W0SrR22~>
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 11170
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 521.7346 21.25984 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (1. University Scholarship Allocation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Evaluate applicants using marks, subject minimums, attendance, and family income; rank eligible applicants) Tj T* (and resolve ties by aggregate marks, then attendance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 692.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (\177 Number of applicants; each applicant\222s name, aggregate percentage, lowest subject mark, attendance percentage,) Tj T* (annual family income.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 674.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\177 Minimum aggregate, minimum subject mark, minimum attendance, maximum income, and number of scholarships.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 654.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 636.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 618.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read policy limits and applicant details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 600.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. For each applicant, check all four eligibility conditions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Store eligible applicants; reject others with a reason.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 552.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (5. Sort eligible applicants by aggregate marks descending, then attendance descending; if still tied, use name) Tj T* (alphabetically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 534.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Display eligible ranking and scholarship recipients up to the available count.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 516.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 496.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 432.3701 cm
+q
+BT 1 0 0 1 6 52.3 Tm -0.051379 Tw 10 TL /F3 7.7 Tf 0 0 0 rg (Minimum aggregate = 80; minimum subject = 70; attendance = 85%; maximum income = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (250000; scholarships =) Tj T* 0 Tw (2) Tj  T* (Asha, 91, 75, 92, ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (180000) Tj  T* (Balu, 88, 72, 90, ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (220000) Tj  T* (Charan, 88, 72, 90, ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (200000) Tj  T* (Divya, 79, 80, 95, ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (150000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 412.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 348.3701 cm
+q
+BT 1 0 0 1 6 52.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Eligible ranking:) Tj  T* (1. Asha \227 91%, attendance 92%) Tj  T* (2. Charan \227 88%, attendance 90%) Tj  T* (3. Balu \227 88%, attendance 90%) Tj  T* (Selected: Asha, Charan) Tj  T* (Divya \227 Not eligible: aggregate below 80%.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 328.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 122.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 101.1176 0 Td (Read policy and applicant details) Tj T* -101.1176 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 118.1388 0 Td (Check all eligibility rules) Tj T* -118.1388 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 147.1833 0 Td (Eligible?) Tj T* -147.1833 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 120.9608 0 Td (Store / reject applicant) Tj T* -120.9608 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 100.6458 0 Td (Sort by marks, attendance, name) Tj T* -100.6458 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 106.5576 0 Td (Display ranking and recipients) Tj T* -106.5576 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 115.3701 360 216 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 309.3701 m
+358.6378 309.3701 l
+363.613 309.3701 367.6378 313.3949 367.6378 318.3701 c
+367.6378 318.3701 l
+367.6378 323.3453 363.613 327.3701 358.6378 327.3701 c
+236.6378 327.3701 l
+231.6626 327.3701 227.6378 323.3453 227.6378 318.3701 c
+227.6378 318.3701 l
+227.6378 313.3949 231.6626 309.3701 236.6378 309.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 315.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 307.3701 m
+297.6378 297.7034 l
+S
+n
+297.6378 297.7034 m
+299.3777 301.3052 l
+295.8979 301.3052 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 295.7034 m
+412.6378 295.7034 l
+404.6378 277.7034 l
+182.6378 277.7034 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 247.9366 284.3234 Tm
+(Read policy and applicant details) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 275.7034 m
+297.6378 266.0368 l
+S
+n
+297.6378 266.0368 m
+299.3777 269.6386 l
+295.8979 269.6386 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 246.0368 m
+410.6378 246.0368 l
+411.7434 246.0368 412.6378 246.9312 412.6378 248.0368 c
+412.6378 262.0368 l
+412.6378 263.1424 411.7434 264.0368 410.6378 264.0368 c
+184.6378 264.0368 l
+183.5322 264.0368 182.6378 263.1424 182.6378 262.0368 c
+182.6378 248.0368 l
+182.6378 246.9312 183.5322 246.0368 184.6378 246.0368 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 242.8366 252.6568 Tm
+(For each applicant\054 test all four rules) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 244.0368 m
+297.6378 236.8701 l
+S
+n
+297.6378 236.8701 m
+299.3777 240.4719 l
+295.8979 240.4719 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 234.8701 m
+356.6378 223.3701 l
+297.6378 211.8701 l
+238.6378 223.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 284.7892 220.9901 Tm
+(Eligible\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 226.3701 Tm
+(Yes\072 store applicant) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 217.3701 Tm
+(No\072 record rejection reason) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 223.3701 m
+359.6378 223.3701 l
+S
+n
+342.6378 223.3701 m
+342.6378 228.3701 l
+S
+n
+342.6378 223.3701 m
+342.6378 218.3701 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 209.8701 m
+297.6378 202.7034 l
+S
+n
+297.6378 202.7034 m
+299.3777 206.3052 l
+295.8979 206.3052 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 182.7034 m
+410.6378 182.7034 l
+411.7434 182.7034 412.6378 183.5978 412.6378 184.7034 c
+412.6378 198.7034 l
+412.6378 199.809 411.7434 200.7034 410.6378 200.7034 c
+184.6378 200.7034 l
+183.5322 200.7034 182.6378 199.809 182.6378 198.7034 c
+182.6378 184.7034 l
+182.6378 183.5978 183.5322 182.7034 184.6378 182.7034 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 238.2976 189.3234 Tm
+(Rank by marks\054 attendance\054 then name) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 180.7034 m
+297.6378 171.0368 l
+S
+n
+297.6378 171.0368 m
+299.3777 174.6386 l
+295.8979 174.6386 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 169.0368 m
+412.6378 169.0368 l
+404.6378 151.0368 l
+182.6378 151.0368 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 234.1496 157.6568 Tm
+(Display ranking and scholarship recipients) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 149.0368 m
+297.6378 139.3701 l
+S
+n
+297.6378 139.3701 m
+299.3777 142.9719 l
+295.8979 142.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 119.3701 m
+358.6378 119.3701 l
+363.613 119.3701 367.6378 123.3949 367.6378 128.3701 c
+367.6378 128.3701 l
+367.6378 133.3453 363.613 137.3701 358.6378 137.3701 c
+236.6378 137.3701 l
+231.6626 137.3701 227.6378 133.3453 227.6378 128.3701 c
+227.6378 128.3701 l
+227.6378 123.3949 231.6626 119.3701 236.6378 119.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 125.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 12894
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 521.7346 21.25984 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (2. Progressive Electricity Billing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Calculate a bill using progressive consumption slabs, fixed charge, surcharge, and rebate; compare monthly) Tj T* (bills and flag unusual increases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 704.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\177 Units consumed for each month.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 686.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\177 Slab rates and boundaries, fixed charge, surcharge percentage, rebate rule, and unusual-increase threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 666.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 648.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read monthly units and billing rules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 612.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. Calculate energy charge by applying each rate only to units in that slab.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 594.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Add fixed charge; calculate surcharge and eligible rebate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 576.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. Calculate final bill and store it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 558.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Compare each bill with the previous month; calculate percentage increase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Flag increases above the given threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 522.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Display monthly bills and alerts; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 502.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 468.3701 cm
+q
+BT 1 0 0 1 6 22.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Tariff: first 100 units ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (2/unit; next 100 ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (3/unit; above 200 ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (5/unit; fixed charge ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (50; surcharge 5%;) Tj T* (rebate ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (20 if units ) Tj /F5 7.7 Tf 10 TL (\243) Tj /F3 7.7 Tf 10 TL ( 100; flag increase > 30%.) Tj  T* (Units: April 80, May 120, June 250) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 448.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 394.3701 cm
+q
+BT 1 0 0 1 6 42.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (April: energy ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (160, fixed ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (50, surcharge ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (10.50, rebate ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (20; bill = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (200.50) Tj  T* (May: energy ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (260, fixed ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (50, surcharge ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (15.50; bill = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (325.50) Tj  T* (June: energy ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (750, fixed ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (50, surcharge ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (40; bill = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (840.00) Tj  T* (May vs April: +62.34% \227 ALERT) Tj  T* (June vs May: +158.06% \227 ALERT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 374.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 141.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 217 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 203 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 114.8196 0 Td (Read units and tariff rules) Tj T* -114.8196 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 98.29134 0 Td (Calculate slab-wise energy charge) Tj T* -98.29134 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 77.25384 0 Td (Add fixed charge and surcharge; apply rebate) Tj T* -77.25384 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 130.6508 0 Td (Store monthly bill) Tj T* -130.6508 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 106.7956 0 Td (Compare with previous month) Tj T* -106.7956 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 113.1621 0 Td (Increase above threshold?) Tj T* -113.1621 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 120.9693 0 Td (Display bills and alerts) Tj T* -120.9693 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 134.3701 360 243 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 355.3701 m
+358.6378 355.3701 l
+363.613 355.3701 367.6378 359.3949 367.6378 364.3701 c
+367.6378 364.3701 l
+367.6378 369.3453 363.613 373.3701 358.6378 373.3701 c
+236.6378 373.3701 l
+231.6626 373.3701 227.6378 369.3453 227.6378 364.3701 c
+227.6378 364.3701 l
+227.6378 359.3949 231.6626 355.3701 236.6378 355.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 361.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 353.3701 m
+297.6378 344.3701 l
+S
+n
+297.6378 344.3701 m
+299.3777 347.9719 l
+295.8979 347.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 342.3701 m
+412.6378 342.3701 l
+404.6378 324.3701 l
+182.6378 324.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 246.0496 330.9901 Tm
+(Read monthly units and tariff rules) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 322.3701 m
+297.6378 313.3701 l
+S
+n
+297.6378 313.3701 m
+299.3777 316.9719 l
+295.8979 316.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 293.3701 m
+410.6378 293.3701 l
+411.7434 293.3701 412.6378 294.2645 412.6378 295.3701 c
+412.6378 309.3701 l
+412.6378 310.4757 411.7434 311.3701 410.6378 311.3701 c
+184.6378 311.3701 l
+183.5322 311.3701 182.6378 310.4757 182.6378 309.3701 c
+182.6378 295.3701 l
+182.6378 294.2645 183.5322 293.3701 184.6378 293.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 191.0512 299.9901 Tm
+(For each month\054 calculate slab charge\054 fixed fee\054 surcharge and rebate) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 291.3701 m
+297.6378 282.3701 l
+S
+n
+297.6378 282.3701 m
+299.3777 285.9719 l
+295.8979 285.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 262.3701 m
+410.6378 262.3701 l
+411.7434 262.3701 412.6378 263.2645 412.6378 264.3701 c
+412.6378 278.3701 l
+412.6378 279.4757 411.7434 280.3701 410.6378 280.3701 c
+184.6378 280.3701 l
+183.5322 280.3701 182.6378 279.4757 182.6378 278.3701 c
+182.6378 264.3701 l
+182.6378 263.2645 183.5322 262.3701 184.6378 262.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 277.231 268.9901 Tm
+(Store final bill) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 260.3701 m
+297.6378 253.8701 l
+S
+n
+297.6378 253.8701 m
+299.3777 257.4719 l
+295.8979 257.4719 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 251.8701 m
+356.6378 240.3701 l
+297.6378 228.8701 l
+238.6378 240.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 275.9084 237.9901 Tm
+(More months\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 243.3701 Tm
+(Yes\072 calculate next bill) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 234.3701 Tm
+(No\072 continue) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 240.3701 m
+359.6378 240.3701 l
+S
+n
+342.6378 240.3701 m
+342.6378 245.3701 l
+S
+n
+342.6378 240.3701 m
+342.6378 235.3701 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 226.8701 m
+297.6378 220.3701 l
+S
+n
+297.6378 220.3701 m
+299.3777 223.9719 l
+295.8979 223.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 200.3701 m
+410.6378 200.3701 l
+411.7434 200.3701 412.6378 201.2645 412.6378 202.3701 c
+412.6378 216.3701 l
+412.6378 217.4757 411.7434 218.3701 410.6378 218.3701 c
+184.6378 218.3701 l
+183.5322 218.3701 182.6378 217.4757 182.6378 216.3701 c
+182.6378 202.3701 l
+182.6378 201.2645 183.5322 200.3701 184.6378 200.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 209.0168 206.9901 Tm
+(Compare each bill with prior month\073 test increase threshold) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 198.3701 m
+297.6378 189.3701 l
+S
+n
+297.6378 189.3701 m
+299.3777 192.9719 l
+295.8979 192.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 187.3701 m
+412.6378 187.3701 l
+404.6378 169.3701 l
+182.6378 169.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 250.9694 175.9901 Tm
+(Display monthly bills and alerts) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 167.3701 m
+297.6378 158.3701 l
+S
+n
+297.6378 158.3701 m
+299.3777 161.9719 l
+295.8979 161.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 138.3701 m
+358.6378 138.3701 l
+363.613 138.3701 367.6378 142.3949 367.6378 147.3701 c
+367.6378 147.3701 l
+367.6378 152.3453 363.613 156.3701 358.6378 156.3701 c
+236.6378 156.3701 l
+231.6626 156.3701 227.6378 152.3453 227.6378 147.3701 c
+227.6378 147.3701 l
+227.6378 142.3949 231.6626 138.3701 236.6378 138.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 144.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 12628
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 521.7346 21.25984 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (3. Hospital Billing and Patient Classification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Add consultation, diagnostic, and treatment charges; apply a concession when eligible; validate payment and) Tj T* (classify the account.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 692.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (\177 Consultation, diagnostic, and treatment charges; concession eligibility and percentage; amount paid; classification) Tj T* (thresholds.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 672.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 654.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 636.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read charges, concession conditions, and payment amount.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 618.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. Validate that charges and payment are non-negative.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 600.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Add consultation, diagnostic, and treatment charges.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. If eligible, subtract the allowed concession.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 564.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Calculate balance = final bill ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL ( amount paid; validate overpayment using the policy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Classify as Paid, Partially Paid, or Unpaid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 528.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Display itemized bill and classification; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 508.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 484.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 6 12.3 Tm /F3 7.7 Tf 10 TL (Consultation ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (500; diagnostics ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (1500; treatment ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (4000; eligible concession 10%; paid ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (3000. Concession) Tj T* (applies to subtotal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 464.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 400.3701 cm
+q
+BT 1 0 0 1 6 52.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Subtotal = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (6000.00) Tj  T* (Concession \(10%\) = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (600.00) Tj  T* (Final bill = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (5400.00) Tj  T* (Paid = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (3000.00) Tj  T* (Balance due = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (2400.00) Tj  T* (Classification: Partially Paid) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 380.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 120.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 244 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 230 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 217 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 111.0371 0 Td (Read charges and payment) Tj T* -111.0371 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 203 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 134.4248 0 Td (Validate values) Tj T* -134.4248 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 129.4651 0 Td (Calculate subtotal) Tj T* -129.4651 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 124.2716 0 Td (Concession eligible?) Tj T* -124.2716 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 119.0738 0 Td (Apply concession if yes) Tj T* -119.0738 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 129.4651 0 Td (Calculate balance) Tj T* -129.4651 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 130.8888 0 Td (Classify payment) Tj T* -130.8888 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 127.3401 0 Td (Print bill and status) Tj T* -127.3401 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 113.3701 360 270 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 361.3701 m
+358.6378 361.3701 l
+363.613 361.3701 367.6378 365.3949 367.6378 370.3701 c
+367.6378 370.3701 l
+367.6378 375.3453 363.613 379.3701 358.6378 379.3701 c
+236.6378 379.3701 l
+231.6626 379.3701 227.6378 375.3453 227.6378 370.3701 c
+227.6378 370.3701 l
+227.6378 365.3949 231.6626 361.3701 236.6378 361.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 367.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 359.3701 m
+297.6378 346.513 l
+S
+n
+297.6378 346.513 m
+299.3777 350.1147 l
+295.8979 350.1147 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 344.513 m
+412.6378 344.513 l
+404.6378 326.513 l
+182.6378 326.513 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 230.362 333.133 Tm
+(Read charges\054 concession rule and payment) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 324.513 m
+297.6378 314.1558 l
+S
+n
+297.6378 314.1558 m
+299.3777 317.7576 l
+295.8979 317.7576 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 312.1558 m
+356.6378 300.6558 l
+297.6378 289.1558 l
+238.6378 300.6558 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 283.0892 302.2758 Tm
+(All values) Tj
+T*
+ET
+BT
+1 0 0 1 276.092 294.2758 Tm
+(non\055negative\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 303.6558 Tm
+(Yes\072 continue) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 294.6558 Tm
+(No\072 display input error) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 300.6558 m
+359.6378 300.6558 l
+S
+n
+342.6378 300.6558 m
+342.6378 305.6558 l
+S
+n
+342.6378 300.6558 m
+342.6378 295.6558 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 287.1558 m
+297.6378 276.7987 l
+S
+n
+297.6378 276.7987 m
+299.3777 280.4005 l
+295.8979 280.4005 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 256.7987 m
+410.6378 256.7987 l
+411.7434 256.7987 412.6378 257.6931 412.6378 258.7987 c
+412.6378 272.7987 l
+412.6378 273.9043 411.7434 274.7987 410.6378 274.7987 c
+184.6378 274.7987 l
+183.5322 274.7987 182.6378 273.9043 182.6378 272.7987 c
+182.6378 258.7987 l
+182.6378 257.6931 183.5322 256.7987 184.6378 256.7987 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 228.475 263.4187 Tm
+(Calculate subtotal\073 apply concession if eligible) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 254.7987 m
+297.6378 241.9415 l
+S
+n
+297.6378 241.9415 m
+299.3777 245.5433 l
+295.8979 245.5433 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 221.9415 m
+410.6378 221.9415 l
+411.7434 221.9415 412.6378 222.8359 412.6378 223.9415 c
+412.6378 237.9415 l
+412.6378 239.0471 411.7434 239.9415 410.6378 239.9415 c
+184.6378 239.9415 l
+183.5322 239.9415 182.6378 239.0471 182.6378 237.9415 c
+182.6378 223.9415 l
+182.6378 222.8359 183.5322 221.9415 184.6378 221.9415 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 263.9982 228.5615 Tm
+(Calculate balance due) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 219.9415 m
+297.6378 209.5844 l
+S
+n
+297.6378 209.5844 m
+299.3777 213.1862 l
+295.8979 213.1862 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 207.5844 m
+356.6378 196.0844 l
+297.6378 184.5844 l
+238.6378 196.0844 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 272.3146 193.7044 Tm
+(Payment status\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 199.0844 Tm
+(Paid \057 partial \057 unpaid) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 190.0844 Tm
+(Classify by balance) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 196.0844 m
+359.6378 196.0844 l
+S
+n
+342.6378 196.0844 m
+342.6378 201.0844 l
+S
+n
+342.6378 196.0844 m
+342.6378 191.0844 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 182.5844 m
+297.6378 172.2272 l
+S
+n
+297.6378 172.2272 m
+299.3777 175.829 l
+295.8979 175.829 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 170.2272 m
+412.6378 170.2272 l
+404.6378 152.2272 l
+182.6378 152.2272 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 251.1564 158.8472 Tm
+(Display itemized bill and status) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 150.2272 m
+297.6378 137.3701 l
+S
+n
+297.6378 137.3701 m
+299.3777 140.9719 l
+295.8979 140.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 117.3701 m
+358.6378 117.3701 l
+363.613 117.3701 367.6378 121.3949 367.6378 126.3701 c
+367.6378 126.3701 l
+367.6378 131.3453 363.613 135.3701 358.6378 135.3701 c
+236.6378 135.3701 l
+231.6626 135.3701 227.6378 131.3453 227.6378 126.3701 c
+227.6378 126.3701 l
+227.6378 121.3949 231.6626 117.3701 236.6378 117.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 123.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 23 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 11170
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 521.7346 21.25984 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (4. Employee Payroll and Deduction Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Calculate gross pay from basic salary, allowances, overtime, and incentives; apply progressive deductions and) Tj T* (print a salary statement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 704.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\177 Basic salary, allowances, overtime hours and hourly rate, incentive, deduction slabs/rates, and fixed deductions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 684.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 666.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 648.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read employee and pay details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. Calculate overtime pay = hours \327 hourly rate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 612.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Calculate gross salary = basic + allowances + overtime + incentives.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 594.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. Apply supplied progressive deduction brackets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 576.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Add fixed deductions, if any.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 558.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Calculate net salary = gross ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL ( total deductions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Print salary statement; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 520.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 496.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 6 12.3 Tm /F3 7.7 Tf 10 TL (Basic ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (25000; allowances ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (5000; overtime 10 hours at ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (200/hour; incentive ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (2000. Deduction: 0% on first) Tj T* /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (20000, 5% on next ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (10000, 10% above ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (30000.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 476.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 402.3701 cm
+q
+BT 1 0 0 1 6 62.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Basic: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (25000.00) Tj  T* (Allowances: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (5000.00) Tj  T* (Overtime: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (2000.00) Tj  T* (Incentive: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (2000.00) Tj  T* (Gross salary: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (34000.00) Tj  T* (Progressive deduction: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (1000.00) Tj  T* (Net salary: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (33000.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 382.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 176.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 92.60909 0 Td (Read pay details and deduction slabs) Tj T* -92.60909 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 120.0216 0 Td (Calculate overtime pay) Tj T* -120.0216 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 121.4411 0 Td (Calculate gross salary) Tj T* -121.4411 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 100.6501 0 Td (Calculate progressive deductions) Tj T* -100.6501 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 125.9248 0 Td (Calculate net salary) Tj T* -125.9248 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 116.9531 0 Td (Display salary statement) Tj T* -116.9531 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 169.3701 360 216 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 363.3701 m
+358.6378 363.3701 l
+363.613 363.3701 367.6378 367.3949 367.6378 372.3701 c
+367.6378 372.3701 l
+367.6378 377.3453 363.613 381.3701 358.6378 381.3701 c
+236.6378 381.3701 l
+231.6626 381.3701 227.6378 377.3453 227.6378 372.3701 c
+227.6378 372.3701 l
+227.6378 367.3949 231.6626 363.3701 236.6378 363.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 369.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 361.3701 m
+297.6378 351.7034 l
+S
+n
+297.6378 351.7034 m
+299.3777 355.3052 l
+295.8979 355.3052 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 349.7034 m
+412.6378 349.7034 l
+404.6378 331.7034 l
+182.6378 331.7034 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 199.3744 338.3234 Tm
+(Read salary\054 allowances\054 overtime\054 incentive and deduction slabs) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 329.7034 m
+297.6378 320.0368 l
+S
+n
+297.6378 320.0368 m
+299.3777 323.6386 l
+295.8979 323.6386 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 300.0368 m
+410.6378 300.0368 l
+411.7434 300.0368 412.6378 300.9312 412.6378 302.0368 c
+412.6378 316.0368 l
+412.6378 317.1424 411.7434 318.0368 410.6378 318.0368 c
+184.6378 318.0368 l
+183.5322 318.0368 182.6378 317.1424 182.6378 316.0368 c
+182.6378 302.0368 l
+182.6378 300.9312 183.5322 300.0368 184.6378 300.0368 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 243.5982 306.6568 Tm
+(Calculate overtime and gross salary) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 298.0368 m
+297.6378 288.3701 l
+S
+n
+297.6378 288.3701 m
+299.3777 291.9719 l
+295.8979 291.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 268.3701 m
+410.6378 268.3701 l
+411.7434 268.3701 412.6378 269.2645 412.6378 270.3701 c
+412.6378 284.3701 l
+412.6378 285.4757 411.7434 286.3701 410.6378 286.3701 c
+184.6378 286.3701 l
+183.5322 286.3701 182.6378 285.4757 182.6378 284.3701 c
+182.6378 270.3701 l
+182.6378 269.2645 183.5322 268.3701 184.6378 268.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 232.8202 274.9901 Tm
+(Calculate progressive and fixed deductions) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 266.3701 m
+297.6378 256.7034 l
+S
+n
+297.6378 256.7034 m
+299.3777 260.3052 l
+295.8979 260.3052 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 236.7034 m
+410.6378 236.7034 l
+411.7434 236.7034 412.6378 237.5978 412.6378 238.7034 c
+412.6378 252.7034 l
+412.6378 253.809 411.7434 254.7034 410.6378 254.7034 c
+184.6378 254.7034 l
+183.5322 254.7034 182.6378 253.809 182.6378 252.7034 c
+182.6378 238.7034 l
+182.6378 237.5978 183.5322 236.7034 184.6378 236.7034 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 267.7824 243.3234 Tm
+(Calculate net salary) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 234.7034 m
+297.6378 225.0368 l
+S
+n
+297.6378 225.0368 m
+299.3777 228.6386 l
+295.8979 228.6386 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 223.0368 m
+412.6378 223.0368 l
+404.6378 205.0368 l
+182.6378 205.0368 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 260.605 211.6568 Tm
+(Display salary statement) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 203.0368 m
+297.6378 193.3701 l
+S
+n
+297.6378 193.3701 m
+299.3777 196.9719 l
+295.8979 196.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 173.3701 m
+358.6378 173.3701 l
+363.613 173.3701 367.6378 177.3949 367.6378 182.3701 c
+367.6378 182.3701 l
+367.6378 187.3453 363.613 191.3701 358.6378 191.3701 c
+236.6378 191.3701 l
+231.6626 191.3701 227.6378 187.3453 227.6378 182.3701 c
+227.6378 182.3701 l
+227.6378 177.3949 231.6626 173.3701 236.6378 173.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 179.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 26 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 12444
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 521.7346 21.25984 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (5. Multi-Plan Telecommunications Cost Optimization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm -0.055957 Tw 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Compare mobile plans using expected usage, validity, and budget; calculate extra-use charges and choose the) Tj T* 0 Tw (lowest-cost eligible plan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 692.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL -0.031957 Tw (\177 Expected data/call/SMS usage, required validity, budget, and each plan\222s price, included allowances, validity, and excess) Tj T* 0 Tw (rates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 672.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 654.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 636.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read requirements and plan details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 618.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. Check validity and mandatory requirements for each plan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 600.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Calculate excess charges for usage beyond allowances.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. Calculate total cost = plan price + excess charges.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 564.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Mark plans exceeding budget or failing requirements as ineligible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Choose eligible plan with lowest total cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 528.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Display comparison and selected plan; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 508.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 464.3701 cm
+q
+BT 1 0 0 1 6 32.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Usage: 12 GB data; 300 call minutes; validity 28 days; budget ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (400.) Tj  T* (Plan A: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (299, 10 GB, 300 minutes, 28 days, extra data ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (10/GB.) Tj  T* (Plan B: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (349, 15 GB, 300 minutes, 28 days.) Tj  T* (Plan C: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (249, 8 GB, 250 minutes, 24 days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 444.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 400.3701 cm
+q
+BT 1 0 0 1 6 32.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Plan A: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (299 + 2 GB \327 ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (10 = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (319; eligible) Tj  T* (Plan B: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (349; eligible) Tj  T* (Plan C: ineligible \(validity and allowances insufficient\)) Tj  T* (Selected plan: Plan A \227 ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (319) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 380.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 147.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 217 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 203 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 105.3591 0 Td (Read usage, budget and plans) Tj T* -105.3591 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 102.7793 0 Td (Check validity and requirements) Tj T* -102.7793 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 109.2691 0 Td (Calculate plan + excess cost) Tj T* -109.2691 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 112.6903 0 Td (Eligible and within budget?) Tj T* -112.6903 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 120.2596 0 Td (Compare eligible costs) Tj T* -120.2596 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 111.7596 0 Td (Choose minimum-cost plan) Tj T* -111.7596 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 137.7398 0 Td (Display result) Tj T* -137.7398 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 140.3701 360 243 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 361.3701 m
+358.6378 361.3701 l
+363.613 361.3701 367.6378 365.3949 367.6378 370.3701 c
+367.6378 370.3701 l
+367.6378 375.3453 363.613 379.3701 358.6378 379.3701 c
+236.6378 379.3701 l
+231.6626 379.3701 227.6378 375.3453 227.6378 370.3701 c
+227.6378 370.3701 l
+227.6378 365.3949 231.6626 361.3701 236.6378 361.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 367.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 359.3701 m
+297.6378 350.3701 l
+S
+n
+297.6378 350.3701 m
+299.3777 353.9719 l
+295.8979 353.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 348.3701 m
+412.6378 348.3701 l
+404.6378 330.3701 l
+182.6378 330.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 242.2586 336.9901 Tm
+(Read usage\054 budget and plan details) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 328.3701 m
+297.6378 319.3701 l
+S
+n
+297.6378 319.3701 m
+299.3777 322.9719 l
+295.8979 322.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 299.3701 m
+410.6378 299.3701 l
+411.7434 299.3701 412.6378 300.2645 412.6378 301.3701 c
+412.6378 315.3701 l
+412.6378 316.4757 411.7434 317.3701 410.6378 317.3701 c
+184.6378 317.3701 l
+183.5322 317.3701 182.6378 316.4757 182.6378 315.3701 c
+182.6378 301.3701 l
+182.6378 300.2645 183.5322 299.3701 184.6378 299.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 227.3428 305.9901 Tm
+(For each plan\054 check validity and requirements) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 297.3701 m
+297.6378 290.8701 l
+S
+n
+297.6378 290.8701 m
+299.3777 294.4719 l
+295.8979 294.4719 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 288.8701 m
+356.6378 277.3701 l
+297.6378 265.8701 l
+238.6378 277.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 280.631 278.9901 Tm
+(Plan meets) Tj
+T*
+ET
+BT
+1 0 0 1 275.9084 270.9901 Tm
+(requirements\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 280.3701 Tm
+(Yes\072 calculate total cost) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 271.3701 Tm
+(No\072 mark ineligible) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 277.3701 m
+359.6378 277.3701 l
+S
+n
+342.6378 277.3701 m
+342.6378 282.3701 l
+S
+n
+342.6378 277.3701 m
+342.6378 272.3701 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 263.8701 m
+297.6378 259.8701 l
+S
+n
+297.6378 259.8701 m
+299.3777 263.4719 l
+295.8979 263.4719 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 257.8701 m
+356.6378 246.3701 l
+297.6378 234.8701 l
+238.6378 246.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 274.9598 243.9901 Tm
+(Within budget\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 249.3701 Tm
+(Yes\072 keep eligible) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 240.3701 Tm
+(No\072 mark over budget) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 246.3701 m
+359.6378 246.3701 l
+S
+n
+342.6378 246.3701 m
+342.6378 251.3701 l
+S
+n
+342.6378 246.3701 m
+342.6378 241.3701 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 232.8701 m
+297.6378 226.3701 l
+S
+n
+297.6378 226.3701 m
+299.3777 229.9719 l
+295.8979 229.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 206.3701 m
+410.6378 206.3701 l
+411.7434 206.3701 412.6378 207.2645 412.6378 208.3701 c
+412.6378 222.3701 l
+412.6378 223.4757 411.7434 224.3701 410.6378 224.3701 c
+184.6378 224.3701 l
+183.5322 224.3701 182.6378 223.4757 182.6378 222.3701 c
+182.6378 208.3701 l
+182.6378 207.2645 183.5322 206.3701 184.6378 206.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 237.1688 212.9901 Tm
+(Select eligible plan with lowest total cost) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 204.3701 m
+297.6378 195.3701 l
+S
+n
+297.6378 195.3701 m
+299.3777 198.9719 l
+295.8979 198.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 193.3701 m
+412.6378 193.3701 l
+404.6378 175.3701 l
+182.6378 175.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 240.3818 181.9901 Tm
+(Display comparison and selected plan) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 173.3701 m
+297.6378 164.3701 l
+S
+n
+297.6378 164.3701 m
+299.3777 167.9719 l
+295.8979 167.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 144.3701 m
+358.6378 144.3701 l
+363.613 144.3701 367.6378 148.3949 367.6378 153.3701 c
+367.6378 153.3701 l
+367.6378 158.3453 363.613 162.3701 358.6378 162.3701 c
+236.6378 162.3701 l
+231.6626 162.3701 227.6378 158.3453 227.6378 153.3701 c
+227.6378 153.3701 l
+227.6378 148.3949 231.6626 144.3701 236.6378 144.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 150.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 29 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 12911
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 521.7346 21.25984 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (6. Railway Fare and Reservation Calculator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Calculate passenger fares using distance, travel class, age concessions, reservation fees, and cancellation) Tj T* (penalties.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 692.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (\177 Passenger age and count, distance, class rate per kilometre, age concession rules, reservation fee, and cancellation) Tj T* (penalty.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 672.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 654.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 636.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read journey and passenger details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 618.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. For each passenger, calculate base fare = distance \327 class rate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 600.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Apply age concession if eligible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. Add reservation fee and other charges.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 564.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. If cancelled, calculate penalty and refund according to policy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Calculate total fare/refund.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 528.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Display itemized results; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 508.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 484.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 6 12.3 Tm /F3 7.7 Tf 10 TL (Distance 250 km; class rate ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (2/km; reservation ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (40 per passenger; concession 40% for age 60+;) Tj T* (cancellation penalty ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (100. Passengers aged 25 and 65. Concession applies to base fare.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 464.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 420.3701 cm
+q
+BT 1 0 0 1 6 32.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Age 25: base ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (500, concession ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (0, reservation ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (40, fare ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (540) Tj  T* (Age 65: base ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (500, concession ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (200, reservation ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (40, fare ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (340) Tj  T* (Total fare = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (880) Tj  T* (If age-65 passenger cancels: refund = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (340 ) Tj /F5 7.7 Tf 10 TL (-) Tj /F3 7.7 Tf 10 TL ( ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (100 = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (240) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 400.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 140.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 244 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 230 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 217 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 95.21009 0 Td (Read journey and passenger details) Tj T* -95.21009 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 203 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 126.6303 0 Td (Calculate base fare) Tj T* -126.6303 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 116.4728 0 Td (Age concession eligible?) Tj T* -116.4728 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 112.4608 0 Td (Apply concession if eligible) Tj T* -112.4608 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 126.3923 0 Td (Add reservation fee) Tj T* -126.3923 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 141.9856 0 Td (Cancelled?) Tj T* -141.9856 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 117.4163 0 Td (Calculate penalty/refund) Tj T* -117.4163 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 127.5781 0 Td (Display fare/refund) Tj T* -127.5781 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 133.3701 360 270 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 381.3701 m
+358.6378 381.3701 l
+363.613 381.3701 367.6378 385.3949 367.6378 390.3701 c
+367.6378 390.3701 l
+367.6378 395.3453 363.613 399.3701 358.6378 399.3701 c
+236.6378 399.3701 l
+231.6626 399.3701 227.6378 395.3453 227.6378 390.3701 c
+227.6378 390.3701 l
+227.6378 385.3949 231.6626 381.3701 236.6378 381.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 387.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 379.3701 m
+297.6378 366.513 l
+S
+n
+297.6378 366.513 m
+299.3777 370.1147 l
+295.8979 370.1147 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 364.513 m
+412.6378 364.513 l
+404.6378 346.513 l
+182.6378 346.513 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 212.7874 353.133 Tm
+(Read journey\054 passengers\054 class and cancellation status) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 344.513 m
+297.6378 331.6558 l
+S
+n
+297.6378 331.6558 m
+299.3777 335.2576 l
+295.8979 335.2576 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 311.6558 m
+410.6378 311.6558 l
+411.7434 311.6558 412.6378 312.5502 412.6378 313.6558 c
+412.6378 327.6558 l
+412.6378 328.7614 411.7434 329.6558 410.6378 329.6558 c
+184.6378 329.6558 l
+183.5322 329.6558 182.6378 328.7614 182.6378 327.6558 c
+182.6378 313.6558 l
+182.6378 312.5502 183.5322 311.6558 184.6378 311.6558 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 236.975 318.2758 Tm
+(For each passenger\054 calculate base fare) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 309.6558 m
+297.6378 299.2987 l
+S
+n
+297.6378 299.2987 m
+299.3777 302.9005 l
+295.8979 302.9005 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 297.2987 m
+356.6378 285.7987 l
+297.6378 274.2987 l
+238.6378 285.7987 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 266.4598 283.4187 Tm
+(Concession eligible\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 288.7987 Tm
+(Yes\072 subtract concession) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 279.7987 Tm
+(No\072 keep base fare) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 285.7987 m
+359.6378 285.7987 l
+S
+n
+342.6378 285.7987 m
+342.6378 290.7987 l
+S
+n
+342.6378 285.7987 m
+342.6378 280.7987 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 272.2987 m
+297.6378 261.9415 l
+S
+n
+297.6378 261.9415 m
+299.3777 265.5433 l
+295.8979 265.5433 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 241.9415 m
+410.6378 241.9415 l
+411.7434 241.9415 412.6378 242.8359 412.6378 243.9415 c
+412.6378 257.9415 l
+412.6378 259.0471 411.7434 259.9415 410.6378 259.9415 c
+184.6378 259.9415 l
+183.5322 259.9415 182.6378 259.0471 182.6378 257.9415 c
+182.6378 243.9415 l
+182.6378 242.8359 183.5322 241.9415 184.6378 241.9415 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 246.0462 248.5615 Tm
+(Add reservation fee\073 calculate fare) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 239.9415 m
+297.6378 229.5844 l
+S
+n
+297.6378 229.5844 m
+299.3777 233.1862 l
+295.8979 233.1862 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 227.5844 m
+356.6378 216.0844 l
+297.6378 204.5844 l
+238.6378 216.0844 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 280.631 213.7044 Tm
+(Cancelled\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 219.0844 Tm
+(Yes\072 calculate penalty and refund) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 210.0844 Tm
+(No\072 retain fare) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 216.0844 m
+359.6378 216.0844 l
+S
+n
+342.6378 216.0844 m
+342.6378 221.0844 l
+S
+n
+342.6378 216.0844 m
+342.6378 211.0844 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 202.5844 m
+297.6378 192.2272 l
+S
+n
+297.6378 192.2272 m
+299.3777 195.829 l
+295.8979 195.829 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 190.2272 m
+412.6378 190.2272 l
+404.6378 172.2272 l
+182.6378 172.2272 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 236.5976 178.8472 Tm
+(Display passenger fares and total\057refund) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 170.2272 m
+297.6378 157.3701 l
+S
+n
+297.6378 157.3701 m
+299.3777 160.9719 l
+295.8979 160.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 137.3701 m
+358.6378 137.3701 l
+363.613 137.3701 367.6378 141.3949 367.6378 146.3701 c
+367.6378 146.3701 l
+367.6378 151.3453 363.613 155.3701 358.6378 155.3701 c
+236.6378 155.3701 l
+231.6626 155.3701 227.6378 151.3453 227.6378 146.3701 c
+227.6378 146.3701 l
+227.6378 141.3949 231.6626 137.3701 236.6378 137.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 143.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 32 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 12451
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 521.7346 21.25984 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (7. Retail Billing with Multiple Discount Rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Create an itemized invoice with product quantities, category taxes, threshold discounts, and a maximum) Tj T* (discount limit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 704.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (\177 Product name, category, unit price, quantity, category tax rate; discount thresholds/rates; maximum discount limit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 684.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 666.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 648.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read product details and billing rules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. For each item, calculate line amount = unit price \327 quantity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 612.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Add line amounts and calculate category-specific tax.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 594.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. Determine discount using the threshold rule.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 576.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Limit discount to maximum allowed concession.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 558.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Calculate final total = subtotal + tax ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL ( discount.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Print invoice and total; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 520.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 496.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 6 12.3 Tm /F3 7.7 Tf 10 TL (Rice: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (60 \327 2, tax 0%; Soap: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (40 \327 3, tax 5%; Oil: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (150 \327 1, tax 12%. Discount 10% if subtotal ) Tj /F5 7.7 Tf 10 TL (\263) Tj /F3 7.7 Tf 10 TL ( ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (400,) Tj T* (capped at ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (50.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 476.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 402.3701 cm
+q
+BT 1 0 0 1 6 62.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Rice: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (120.00; tax ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (0.00) Tj  T* (Soap: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (120.00; tax ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (6.00) Tj  T* (Oil: ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (150.00; tax ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (18.00) Tj  T* (Subtotal = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (390.00) Tj  T* (Tax = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (24.00) Tj  T* (Discount = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (0.00 \(below ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (400 threshold\)) Tj  T* (Final invoice = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (414.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 382.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 149.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 217 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 203 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 109.1458 0 Td (Read product and tax details) Tj T* -109.1458 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 105.3718 0 Td (Calculate item totals and taxes) Tj T* -105.3718 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 129.4651 0 Td (Calculate subtotal) Tj T* -129.4651 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 117.4206 0 Td (Discount threshold met?) Tj T* -117.4206 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 107.2631 0 Td (Apply discount, limited by cap) Tj T* -107.2631 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 122.1466 0 Td (Calculate final invoice) Tj T* -122.1466 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 140.0986 0 Td (Print invoice) Tj T* -140.0986 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 142.3701 360 243 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 363.3701 m
+358.6378 363.3701 l
+363.613 363.3701 367.6378 367.3949 367.6378 372.3701 c
+367.6378 372.3701 l
+367.6378 377.3453 363.613 381.3701 358.6378 381.3701 c
+236.6378 381.3701 l
+231.6626 381.3701 227.6378 377.3453 227.6378 372.3701 c
+227.6378 372.3701 l
+227.6378 367.3949 231.6626 363.3701 236.6378 363.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 369.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 361.3701 m
+297.6378 352.3701 l
+S
+n
+297.6378 352.3701 m
+299.3777 355.9719 l
+295.8979 355.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 350.3701 m
+412.6378 350.3701 l
+404.6378 332.3701 l
+182.6378 332.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 227.7168 338.9901 Tm
+(Read products\054 quantities\054 prices and tax rules) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 330.3701 m
+297.6378 321.3701 l
+S
+n
+297.6378 321.3701 m
+299.3777 324.9719 l
+295.8979 324.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 301.3701 m
+410.6378 301.3701 l
+411.7434 301.3701 412.6378 302.2645 412.6378 303.3701 c
+412.6378 317.3701 l
+412.6378 318.4757 411.7434 319.3701 410.6378 319.3701 c
+184.6378 319.3701 l
+183.5322 319.3701 182.6378 318.4757 182.6378 317.3701 c
+182.6378 303.3701 l
+182.6378 302.2645 183.5322 301.3701 184.6378 301.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 216.9456 307.9901 Tm
+(For each item\054 calculate line amount and category tax) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 299.3701 m
+297.6378 290.3701 l
+S
+n
+297.6378 290.3701 m
+299.3777 293.9719 l
+295.8979 293.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 270.3701 m
+410.6378 270.3701 l
+411.7434 270.3701 412.6378 271.2645 412.6378 272.3701 c
+412.6378 286.3701 l
+412.6378 287.4757 411.7434 288.3701 410.6378 288.3701 c
+184.6378 288.3701 l
+183.5322 288.3701 182.6378 287.4757 182.6378 286.3701 c
+182.6378 272.3701 l
+182.6378 271.2645 183.5322 270.3701 184.6378 270.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 235.462 276.9901 Tm
+(Calculate subtotal and threshold discount) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 268.3701 m
+297.6378 259.3701 l
+S
+n
+297.6378 259.3701 m
+299.3777 262.9719 l
+295.8979 262.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 239.3701 m
+410.6378 239.3701 l
+411.7434 239.3701 412.6378 240.2645 412.6378 241.3701 c
+412.6378 255.3701 l
+412.6378 256.4757 411.7434 257.3701 410.6378 257.3701 c
+184.6378 257.3701 l
+183.5322 257.3701 182.6378 256.4757 182.6378 255.3701 c
+182.6378 241.3701 l
+182.6378 240.2645 183.5322 239.3701 184.6378 239.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 244.9242 245.9901 Tm
+(Limit discount to maximum allowed) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 237.3701 m
+297.6378 228.3701 l
+S
+n
+297.6378 228.3701 m
+299.3777 231.9719 l
+295.8979 231.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 208.3701 m
+410.6378 208.3701 l
+411.7434 208.3701 412.6378 209.2645 412.6378 210.3701 c
+412.6378 224.3701 l
+412.6378 225.4757 411.7434 226.3701 410.6378 226.3701 c
+184.6378 226.3701 l
+183.5322 226.3701 182.6378 225.4757 182.6378 224.3701 c
+182.6378 210.3701 l
+182.6378 209.2645 183.5322 208.3701 184.6378 208.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 229.036 214.9901 Tm
+(Calculate final total \075 subtotal \053 tax \055 discount) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 206.3701 m
+297.6378 197.3701 l
+S
+n
+297.6378 197.3701 m
+299.3777 200.9719 l
+295.8979 200.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 195.3701 m
+412.6378 195.3701 l
+404.6378 177.3701 l
+182.6378 177.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 247.3756 183.9901 Tm
+(Display itemized invoice and total) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 175.3701 m
+297.6378 166.3701 l
+S
+n
+297.6378 166.3701 m
+299.3777 169.9719 l
+295.8979 169.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 146.3701 m
+358.6378 146.3701 l
+363.613 146.3701 367.6378 150.3949 367.6378 155.3701 c
+367.6378 155.3701 l
+367.6378 160.3453 363.613 164.3701 358.6378 164.3701 c
+236.6378 164.3701 l
+231.6626 164.3701 227.6378 160.3453 227.6378 155.3701 c
+227.6378 155.3701 l
+227.6378 150.3949 231.6626 146.3701 236.6378 146.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 152.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 35 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 12003
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 521.7346 21.25984 Tm (Page 9) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (8. Manufacturing Cost and Profitability Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Calculate material, labour, wastage, and machine costs; determine selling revenue and whether the profit) Tj T* (target is met.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 692.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (\177 Units produced, material cost per unit, wastage percentage, labour cost, machine cost, selling price per unit, and target) Tj T* (profit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 672.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 654.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 636.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read production and cost details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 618.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. Calculate material cost and wastage cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 600.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Add labour and machine costs to find total production cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. Calculate revenue = units sold \327 selling price.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 564.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Calculate profit = revenue ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL ( total cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Compare profit with target profit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 528.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Display costs, revenue, profit, and target status; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 508.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 484.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 6 12.3 Tm /F3 7.7 Tf 10 TL (100 units; material ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (80/unit; wastage 5% of material cost; labour ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (3000; machine ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (1500; selling price) Tj T* /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (130/unit; target profit ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (2500. All units sold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 464.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 380.3701 cm
+q
+BT 1 0 0 1 6 72.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Material = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (8000.00) Tj  T* (Wastage = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (400.00) Tj  T* (Labour = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (3000.00) Tj  T* (Machine = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (1500.00) Tj  T* (Total cost = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (12900.00) Tj  T* (Revenue = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (13000.00) Tj  T* (Profit = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (100.00) Tj  T* (Target ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (2500: NOT MET) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 360.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 154.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 102.2948 0 Td (Read production and cost inputs) Tj T* -102.2948 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 94.98059 0 Td (Calculate material and wastage cost) Tj T* -94.98059 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 108.2023 0 Td (Add labour and machine cost) Tj T* -108.2023 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 110.0936 0 Td (Calculate revenue and profit) Tj T* -110.0936 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.756863 .541176 .141176 RG
+.6 w
+1 .956863 .839216 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 135.3981 0 Td (Profit ) Tj /F5 8.5 Tf 11 TL (\263) Tj /F1 8.5 Tf 11 TL ( target?) Tj T* -135.3981 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 105.8436 0 Td (Display profit and target status) Tj T* -105.8436 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 147.3701 360 216 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 341.3701 m
+358.6378 341.3701 l
+363.613 341.3701 367.6378 345.3949 367.6378 350.3701 c
+367.6378 350.3701 l
+367.6378 355.3453 363.613 359.3701 358.6378 359.3701 c
+236.6378 359.3701 l
+231.6626 359.3701 227.6378 355.3453 227.6378 350.3701 c
+227.6378 350.3701 l
+227.6378 345.3949 231.6626 341.3701 236.6378 341.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 347.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 339.3701 m
+297.6378 334.2272 l
+S
+n
+297.6378 334.2272 m
+299.3777 337.829 l
+295.8979 337.829 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 332.2272 m
+412.6378 332.2272 l
+404.6378 314.2272 l
+182.6378 314.2272 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 218.2682 320.8472 Tm
+(Read production\054 costs\054 selling price and profit target) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 312.2272 m
+297.6378 307.0844 l
+S
+n
+297.6378 307.0844 m
+299.3777 310.6862 l
+295.8979 310.6862 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 287.0844 m
+410.6378 287.0844 l
+411.7434 287.0844 412.6378 287.9788 412.6378 289.0844 c
+412.6378 303.0844 l
+412.6378 304.19 411.7434 305.0844 410.6378 305.0844 c
+184.6378 305.0844 l
+183.5322 305.0844 182.6378 304.19 182.6378 303.0844 c
+182.6378 289.0844 l
+182.6378 287.9788 183.5322 287.0844 184.6378 287.0844 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 241.327 293.7044 Tm
+(Calculate material and wastage costs) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 285.0844 m
+297.6378 279.9415 l
+S
+n
+297.6378 279.9415 m
+299.3777 283.5433 l
+295.8979 283.5433 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 259.9415 m
+410.6378 259.9415 l
+411.7434 259.9415 412.6378 260.8359 412.6378 261.9415 c
+412.6378 275.9415 l
+412.6378 277.0471 411.7434 277.9415 410.6378 277.9415 c
+184.6378 277.9415 l
+183.5322 277.9415 182.6378 277.0471 182.6378 275.9415 c
+182.6378 261.9415 l
+182.6378 260.8359 183.5322 259.9415 184.6378 259.9415 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 251.9044 266.5615 Tm
+(Add labour and machine costs) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 257.9415 m
+297.6378 252.7987 l
+S
+n
+297.6378 252.7987 m
+299.3777 256.4005 l
+295.8979 256.4005 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 232.7987 m
+410.6378 232.7987 l
+411.7434 232.7987 412.6378 233.6931 412.6378 234.7987 c
+412.6378 248.7987 l
+412.6378 249.9043 411.7434 250.7987 410.6378 250.7987 c
+184.6378 250.7987 l
+183.5322 250.7987 182.6378 249.9043 182.6378 248.7987 c
+182.6378 234.7987 l
+182.6378 233.6931 183.5322 232.7987 184.6378 232.7987 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 255.1174 239.4187 Tm
+(Calculate revenue and profit) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 230.7987 m
+297.6378 228.1558 l
+S
+n
+297.6378 228.1558 m
+299.3777 231.7576 l
+295.8979 231.7576 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 226.1558 m
+356.6378 214.6558 l
+297.6378 203.1558 l
+238.6378 214.6558 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 267.9694 212.2758 Tm
+(Profit meets target\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 217.6558 Tm
+(Yes\072 target met) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 208.6558 Tm
+(No\072 target not met) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 214.6558 m
+359.6378 214.6558 l
+S
+n
+342.6378 214.6558 m
+342.6378 219.6558 l
+S
+n
+342.6378 214.6558 m
+342.6378 209.6558 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 201.1558 m
+297.6378 198.513 l
+S
+n
+297.6378 198.513 m
+299.3777 202.1147 l
+295.8979 202.1147 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 196.513 m
+412.6378 196.513 l
+404.6378 178.513 l
+182.6378 178.513 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 237.1654 185.133 Tm
+(Display costs\054 revenue and target status) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 176.513 m
+297.6378 171.3701 l
+S
+n
+297.6378 171.3701 m
+299.3777 174.9719 l
+295.8979 174.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 151.3701 m
+358.6378 151.3701 l
+363.613 151.3701 367.6378 155.3949 367.6378 160.3701 c
+367.6378 160.3701 l
+367.6378 165.3453 363.613 169.3701 358.6378 169.3701 c
+236.6378 169.3701 l
+231.6626 169.3701 227.6378 165.3453 227.6378 160.3701 c
+227.6378 160.3701 l
+227.6378 155.3949 231.6626 151.3701 236.6378 151.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 157.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 38 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 12684
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 517.2866 21.25984 Tm (Page 10) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (9. Multi-Currency Travel Budget Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Convert expenses using supplied exchange rates and fees, compare the total with a budget, and identify the) Tj T* (largest expense category.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 692.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (\177 Expense categories and amounts in foreign currency; exchange rate to home currency; conversion fee percentage; total) Tj T* (budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 672.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 654.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 636.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read expenses, exchange rates, fees, and budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 618.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. Convert each category to home currency.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 600.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Calculate conversion fee and adjusted cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. Add adjusted costs to get total spending.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 564.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Compare total spending with budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7. Find the category with the largest adjusted cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 528.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Display converted expenses and budget comparison; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 508.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 484.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 6 12.3 Tm /F3 7.7 Tf 10 TL (Home currency INR; 1 USD = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (83; conversion fee 2%. Hotel $300, food $120, transport $80, activities) Tj T* ($100. Budget ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (50000.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 464.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 390.3701 cm
+q
+BT 1 0 0 1 6 62.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Hotel: $300 ) Tj /F5 7.7 Tf 10 TL (\256) Tj /F3 7.7 Tf 10 TL ( ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (24900 + ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (498 fee = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (25398) Tj  T* (Food: $120 ) Tj /F5 7.7 Tf 10 TL (\256) Tj /F3 7.7 Tf 10 TL ( ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (9960 + ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (199.20 = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (10159.20) Tj  T* (Transport: $80 ) Tj /F5 7.7 Tf 10 TL (\256) Tj /F3 7.7 Tf 10 TL ( ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (6640 + ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (132.80 = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (6772.80) Tj  T* (Activities: $100 ) Tj /F5 7.7 Tf 10 TL (\256) Tj /F3 7.7 Tf 10 TL ( ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (8300 + ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (166 = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (8466) Tj  T* (Total = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (50796.00) Tj  T* (Over budget by ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (796.00) Tj  T* (Largest category: Hotel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 370.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 137.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 217 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 203 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 89.06034 0 Td (Read expenses, rates, fees and budget) Tj T* -89.06034 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 107.4968 0 Td (Convert each expense to INR) Tj T* -107.4968 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 126.8641 0 Td (Add conversion fee) Tj T* -126.8641 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 117.8881 0 Td (Calculate total spending) Tj T* -117.8881 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 122.8521 0 Td (Compare with budget) Tj T* -122.8521 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 123.5618 0 Td (Find largest category) Tj T* -123.5618 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 132.7801 0 Td (Display analysis) Tj T* -132.7801 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 130.3701 360 243 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 351.3701 m
+358.6378 351.3701 l
+363.613 351.3701 367.6378 355.3949 367.6378 360.3701 c
+367.6378 360.3701 l
+367.6378 365.3453 363.613 369.3701 358.6378 369.3701 c
+236.6378 369.3701 l
+231.6626 369.3701 227.6378 365.3453 227.6378 360.3701 c
+227.6378 360.3701 l
+227.6378 355.3949 231.6626 351.3701 236.6378 351.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 357.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 349.3701 m
+297.6378 340.3701 l
+S
+n
+297.6378 340.3701 m
+299.3777 343.9719 l
+295.8979 343.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 338.3701 m
+412.6378 338.3701 l
+404.6378 320.3701 l
+182.6378 320.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 210.319 326.9901 Tm
+(Read expense amounts\054 exchange rates\054 fees and budget) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 318.3701 m
+297.6378 309.3701 l
+S
+n
+297.6378 309.3701 m
+299.3777 312.9719 l
+295.8979 312.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 289.3701 m
+410.6378 289.3701 l
+411.7434 289.3701 412.6378 290.2645 412.6378 291.3701 c
+412.6378 305.3701 l
+412.6378 306.4757 411.7434 307.3701 410.6378 307.3701 c
+184.6378 307.3701 l
+183.5322 307.3701 182.6378 306.4757 182.6378 305.3701 c
+182.6378 291.3701 l
+182.6378 290.2645 183.5322 289.3701 184.6378 289.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 226.01 295.9901 Tm
+(For each category\054 convert amount and add fee) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 287.3701 m
+297.6378 278.3701 l
+S
+n
+297.6378 278.3701 m
+299.3777 281.9719 l
+295.8979 281.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 258.3701 m
+410.6378 258.3701 l
+411.7434 258.3701 412.6378 259.2645 412.6378 260.3701 c
+412.6378 274.3701 l
+412.6378 275.4757 411.7434 276.3701 410.6378 276.3701 c
+184.6378 276.3701 l
+183.5322 276.3701 182.6378 275.4757 182.6378 274.3701 c
+182.6378 260.3701 l
+182.6378 259.2645 183.5322 258.3701 184.6378 258.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 247.5558 264.9901 Tm
+(Calculate total adjusted spending) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 256.3701 m
+297.6378 249.8701 l
+S
+n
+297.6378 249.8701 m
+299.3777 253.4719 l
+295.8979 253.4719 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 247.8701 m
+356.6378 236.3701 l
+297.6378 224.8701 l
+238.6378 236.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 274.9598 233.9901 Tm
+(Within budget\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 239.3701 Tm
+(Yes\072 budget met) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 230.3701 Tm
+(No\072 calculate overspend) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 236.3701 m
+359.6378 236.3701 l
+S
+n
+342.6378 236.3701 m
+342.6378 241.3701 l
+S
+n
+342.6378 236.3701 m
+342.6378 231.3701 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 222.8701 m
+297.6378 216.3701 l
+S
+n
+297.6378 216.3701 m
+299.3777 219.9719 l
+295.8979 219.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 196.3701 m
+410.6378 196.3701 l
+411.7434 196.3701 412.6378 197.2645 412.6378 198.3701 c
+412.6378 212.3701 l
+412.6378 213.4757 411.7434 214.3701 410.6378 214.3701 c
+184.6378 214.3701 l
+183.5322 214.3701 182.6378 213.4757 182.6378 212.3701 c
+182.6378 198.3701 l
+182.6378 197.2645 183.5322 196.3701 184.6378 196.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 238.2976 202.9901 Tm
+(Find largest adjusted expense category) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 194.3701 m
+297.6378 185.3701 l
+S
+n
+297.6378 185.3701 m
+299.3777 188.9719 l
+295.8979 188.9719 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 183.3701 m
+412.6378 183.3701 l
+404.6378 165.3701 l
+182.6378 165.3701 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 227.9038 171.9901 Tm
+(Display converted expenses and budget result) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 163.3701 m
+297.6378 154.3701 l
+S
+n
+297.6378 154.3701 m
+299.3777 157.9719 l
+295.8979 157.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 134.3701 m
+358.6378 134.3701 l
+363.613 134.3701 367.6378 138.3949 367.6378 143.3701 c
+367.6378 143.3701 l
+367.6378 148.3453 363.613 152.3701 358.6378 152.3701 c
+236.6378 152.3701 l
+231.6626 152.3701 227.6378 148.3453 227.6378 143.3701 c
+227.6378 143.3701 l
+227.6378 138.3949 231.6626 134.3701 236.6378 134.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 140.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 41 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 12849
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.843137 .878431 .905882 RG
+n 48.18898 32.59843 m 547.0866 32.59843 l S
+BT /F1 8 Tf 9.6 TL ET
+.392157 .454902 .545098 rg
+BT 1 0 0 1 48.18898 21.25984 Tm (Python Problem Set | Algorithms, Inputs, Outputs & Flowcharts) Tj T* ET
+BT 1 0 0 1 517.2866 21.25984 Tm (Page 11) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 774.3701 cm
+q
+.086275 .196078 .309804 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (10. Campus Event Financial Planning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 742.3701 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Objective:) Tj /F1 9 Tf ( Estimate event costs, calculate participant contribution and sponsorship shortfall, and find minimum) Tj T* (registrations needed to break even.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Input Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 692.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (\177 Venue, equipment, catering per participant, transport, certificate per participant, sponsorship, registration fee, and) Tj T* (expected participant count.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 672.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 654.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Start.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 636.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2. Read fixed costs, per-participant costs, sponsorship, fee, and attendance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 618.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. Calculate fixed cost = venue + equipment + transport.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 600.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4. Calculate variable cost per participant = catering + certificate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 582.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5. Calculate total cost and revenue for expected participants.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 564.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (6. Calculate surplus/shortfall = revenue ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL ( total cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 534.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (7. Calculate break-even registrations using \(fixed costs ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL ( sponsorship\) \367 \(fee ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL ( variable cost\), rounded up; ensure fee) Tj T* (exceeds variable cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 516.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8. Display costs, balance, and minimum registrations; stop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 496.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 472.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 6 12.3 Tm /F3 7.7 Tf 10 TL (Venue ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (10000; equipment ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (5000; transport ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (3000; catering ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (120/person; certificate ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (20/person;) Tj T* (sponsorship ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (8000; registration ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (250/person; 100 participants.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 452.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Sample Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 388.3701 cm
+q
+BT 1 0 0 1 6 52.3 Tm 10 TL /F3 7.7 Tf 0 0 0 rg (Fixed cost = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (18000) Tj  T* (Variable cost/person = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (140) Tj  T* (Total cost for 100 = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (32000) Tj  T* (Revenue = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (8000 sponsorship + ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (25000 registration = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (33000) Tj  T* (Surplus = ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (1000) Tj  T* (Break-even = ceil\(\() Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (18000 ) Tj /F5 7.7 Tf 10 TL (-) Tj /F3 7.7 Tf 10 TL ( ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (8000\) / \() Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (250 ) Tj /F5 7.7 Tf 10 TL (-) Tj /F3 7.7 Tf 10 TL ( ) Tj /F4 7.7 Tf 10 TL (n) Tj /F3 7.7 Tf 10 TL (140\)\) = 91 participants) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 368.3701 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.3937 162.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 190 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 154.2681 0 Td (Start) Tj T* -154.2681 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 176 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 163 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 77.95934 0 Td (Read costs, fee, sponsorship and attendance) Tj T* -77.95934 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 149 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 136 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 99.94034 0 Td (Calculate fixed and variable costs) Tj T* -99.94034 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 122 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 109 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 102.5328 0 Td (Calculate total cost and revenue) Tj T* -102.5328 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 95 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 82 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 114.5901 0 Td (Calculate surplus/shortfall) Tj T* -114.5901 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 68 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 55 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 98.76309 0 Td (Calculate break-even registrations) Tj T* -98.76309 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 41 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 28 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 123.3281 0 Td (Display financial plan) Tj T* -123.3281 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 14 cm
+q
+.086275 .490196 .603922 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 159.9276 0 Td /F5 11 Tf 12 TL (\257) Tj /F1 11 Tf 12 TL T* -159.9276 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 1 cm
+q
+.419608 .509804 .580392 RG
+.6 w
+.94902 .964706 .980392 rg
+n -5 -5 336.4882 21 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL 155.6833 0 Td (End) Tj T* -155.6833 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+118 155.3701 360 216 re
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 349.3701 m
+358.6378 349.3701 l
+363.613 349.3701 367.6378 353.3949 367.6378 358.3701 c
+367.6378 358.3701 l
+367.6378 363.3453 363.613 367.3701 358.6378 367.3701 c
+236.6378 367.3701 l
+231.6626 367.3701 227.6378 363.3453 227.6378 358.3701 c
+227.6378 358.3701 l
+227.6378 353.3949 231.6626 349.3701 236.6378 349.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 290.457 355.9901 Tm
+(Start) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 347.3701 m
+297.6378 342.2272 l
+S
+n
+297.6378 342.2272 m
+299.3777 345.829 l
+295.8979 345.829 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 340.2272 m
+412.6378 340.2272 l
+404.6378 322.2272 l
+182.6378 322.2272 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 198.6094 328.8472 Tm
+(Read fixed costs\054 variable costs\054 sponsorship\054 fee and attendance) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 320.2272 m
+297.6378 315.0844 l
+S
+n
+297.6378 315.0844 m
+299.3777 318.6862 l
+295.8979 318.6862 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 295.0844 m
+410.6378 295.0844 l
+411.7434 295.0844 412.6378 295.9788 412.6378 297.0844 c
+412.6378 311.0844 l
+412.6378 312.19 411.7434 313.0844 410.6378 313.0844 c
+184.6378 313.0844 l
+183.5322 313.0844 182.6378 312.19 182.6378 311.0844 c
+182.6378 297.0844 l
+182.6378 295.9788 183.5322 295.0844 184.6378 295.0844 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 219.0264 301.7044 Tm
+(Calculate fixed cost and variable cost per participant) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 293.0844 m
+297.6378 287.9415 l
+S
+n
+297.6378 287.9415 m
+299.3777 291.5433 l
+295.8979 291.5433 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 267.9415 m
+410.6378 267.9415 l
+411.7434 267.9415 412.6378 268.8359 412.6378 269.9415 c
+412.6378 283.9415 l
+412.6378 285.0471 411.7434 285.9415 410.6378 285.9415 c
+184.6378 285.9415 l
+183.5322 285.9415 182.6378 285.0471 182.6378 283.9415 c
+182.6378 269.9415 l
+182.6378 268.8359 183.5322 267.9415 184.6378 267.9415 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 223.3716 274.5615 Tm
+(Calculate total cost\054 revenue and surplus\057shortfall) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 265.9415 m
+297.6378 263.2987 l
+S
+n
+297.6378 263.2987 m
+299.3777 266.9005 l
+295.8979 266.9005 l
+h
+f*
+1 0.94902 0.8 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+297.6378 261.2987 m
+356.6378 249.7987 l
+297.6378 238.2987 l
+238.6378 249.7987 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 270.8968 251.4187 Tm
+(Registration fee \076) Tj
+T*
+ET
+BT
+1 0 0 1 276.6632 243.4187 Tm
+(variable cost\077) Tj
+T*
+ET
+BT
+/F1-0 5.5 Tf
+6.6 TL
+ET
+0.082353 0.145098 0.211765 rg
+BT
+1 0 0 1 363.6378 252.7987 Tm
+(Yes\072 calculate break\055even count) Tj
+T*
+ET
+BT
+1 0 0 1 363.6378 243.7987 Tm
+(No\072 break\055even impossible) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.55 w
+n
+337.6378 249.7987 m
+359.6378 249.7987 l
+S
+n
+342.6378 249.7987 m
+342.6378 254.7987 l
+S
+n
+342.6378 249.7987 m
+342.6378 244.7987 l
+S
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 236.2987 m
+297.6378 233.6558 l
+S
+n
+297.6378 233.6558 m
+299.3777 237.2576 l
+295.8979 237.2576 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+184.6378 213.6558 m
+410.6378 213.6558 l
+411.7434 213.6558 412.6378 214.5502 412.6378 215.6558 c
+412.6378 229.6558 l
+412.6378 230.7614 411.7434 231.6558 410.6378 231.6558 c
+184.6378 231.6558 l
+183.5322 231.6558 182.6378 230.7614 182.6378 229.6558 c
+182.6378 215.6558 l
+182.6378 214.5502 183.5322 213.6558 184.6378 213.6558 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 225.0716 220.2758 Tm
+(Round required registrations up to whole person) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 211.6558 m
+297.6378 206.513 l
+S
+n
+297.6378 206.513 m
+299.3777 210.1147 l
+295.8979 210.1147 l
+h
+f*
+0.917647 0.94902 0.972549 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+190.6378 204.513 m
+412.6378 204.513 l
+404.6378 186.513 l
+182.6378 186.513 l
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 229.9846 193.133 Tm
+(Display costs\054 balance and break\055even count) Tj
+T*
+ET
+0.333333 0.45098 0.541176 RG
+0.333333 0.45098 0.541176 rg
+0.8 w
+n
+297.6378 184.513 m
+297.6378 179.3701 l
+S
+n
+297.6378 179.3701 m
+299.3777 182.9719 l
+295.8979 182.9719 l
+h
+f*
+0.866667 0.921569 0.968627 rg
+0.333333 0.45098 0.541176 RG
+0.85 w
+n
+236.6378 159.3701 m
+358.6378 159.3701 l
+363.613 159.3701 367.6378 163.3949 367.6378 168.3701 c
+367.6378 168.3701 l
+367.6378 173.3453 363.613 177.3701 358.6378 177.3701 c
+236.6378 177.3701 l
+231.6626 177.3701 227.6378 173.3453 227.6378 168.3701 c
+227.6378 168.3701 l
+227.6378 163.3949 231.6626 159.3701 236.6378 159.3701 c
+h
+B*
+0.082353 0.145098 0.211765 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 291.5892 165.9901 Tm
+(End) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 42
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000184 00000 n 
+0000000233 00000 n 
+0000000432 00000 n 
+0000001519 00000 n 
+0000001592 00000 n 
+0000001699 00000 n 
+0000001811 00000 n 
+0000001916 00000 n 
+0000002000 00000 n 
+0000002078 00000 n 
+0000002356 00000 n 
+0000013580 00000 n 
+0000013688 00000 n 
+0000013966 00000 n 
+0000026914 00000 n 
+0000027022 00000 n 
+0000027300 00000 n 
+0000039982 00000 n 
+0000040090 00000 n 
+0000040368 00000 n 
+0000051592 00000 n 
+0000051700 00000 n 
+0000051978 00000 n 
+0000064476 00000 n 
+0000064584 00000 n 
+0000064862 00000 n 
+0000077827 00000 n 
+0000077935 00000 n 
+0000078213 00000 n 
+0000090718 00000 n 
+0000090826 00000 n 
+0000091104 00000 n 
+0000103161 00000 n 
+0000103269 00000 n 
+0000103547 00000 n 
+0000116285 00000 n 
+0000116393 00000 n 
+0000116671 00000 n 
+0000129574 00000 n 
+trailer
+<<
+/Size 42
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+129682
+%%EOF
